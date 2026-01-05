@@ -22,7 +22,7 @@ Stocklyzer is a full-stack financial platform that helps users track stocks, ana
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/abhishekboadgurjar/stocklyzer.git
+git clone https://github.com/abhishekgurjarin/stocklyzer.git
 cd stocklyzer
 ```
 
@@ -337,6 +337,8 @@ cd ../app && npm install
 ---
 
 **Built with ❤️ using Next.js, React Native, and Expo**
+
+## Github - https://github.com/abhishekgurjarin
 
 *Stocklyzer - Your Gateway to Smart Investing* 
 
